@@ -1,5 +1,5 @@
 # Hello There 👋
-I'm a junior developer based out of Columbus, Ohio.
+I'm a software developer based out of Columbus, Ohio.
 
 
 
